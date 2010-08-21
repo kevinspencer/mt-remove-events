@@ -1,6 +1,6 @@
 mt-remove-events
 
-Every once in a while, Movable Type's ActionStream pulgin pulls in duplicate
+Every once in a while, Movable Type's ActionStream plugin pulls in duplicate
 links into the mt_profileevent table.  Many many duplicates actually.
 
 Instead of debugging and fixing the problem within MT itself, this is a hack
